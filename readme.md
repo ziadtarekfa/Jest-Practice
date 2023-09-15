@@ -1,1 +1,1 @@
-# Jest Practice with javascript
+# Jest unit testing practice with javascript
